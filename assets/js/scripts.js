@@ -274,7 +274,7 @@ PAGE JS
         $("#alert-msg").show();
       },
       error: function (xhr, textStatus) {
-        alert(textStatus);
+        // alert(textStatus);
       },
     });
   });
